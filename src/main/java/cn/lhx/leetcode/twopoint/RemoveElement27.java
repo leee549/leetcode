@@ -12,7 +12,15 @@ package cn.lhx.leetcode.twopoint;
 public class RemoveElement27 {
 
     public static int removeElement(int[] nums, int val) {
-        return -1;
+        int n = nums.length;
+        int left = 0;
+        for (int right = 0; right < n; right++) {
+            if (nums[right] != val) {
+                nums[left] = nums[right];
+                left++;
+            }
+        }
+        return left;
     }
 
     public static void main(String[] args) {
