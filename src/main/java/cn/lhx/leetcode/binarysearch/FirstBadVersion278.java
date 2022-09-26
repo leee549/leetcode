@@ -2,7 +2,7 @@ package cn.lhx.leetcode.binarysearch;
 
 
 /**
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/25 9:39 上午
  */
 

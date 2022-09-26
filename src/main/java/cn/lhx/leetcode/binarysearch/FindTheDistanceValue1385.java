@@ -9,7 +9,7 @@ import java.util.Arrays;
  *
  * 「距离值」定义为符合此距离要求的元素数目：对于元素arr1[i]，不存在任何元素arr2[j]满足 |arr1[i]-arr2[j]| <= d 。
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/23 10:10 上午
  */
 

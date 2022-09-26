@@ -18,7 +18,7 @@ import java.util.Arrays;
  链接：https://leetcode.cn/problems/richest-customer-wealth
  著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/20 10:06 上午
  */
 

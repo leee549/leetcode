@@ -5,7 +5,7 @@ package cn.lhx.leetcode.binarysearch;
  *
  * 请必须使用时间复杂度为 O(log n) 的算法。
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/22 4:30 下午
  */
 

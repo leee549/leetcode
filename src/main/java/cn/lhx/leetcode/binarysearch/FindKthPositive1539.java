@@ -4,7 +4,7 @@ package cn.lhx.leetcode.binarysearch;
  * 1539. 第 k 个缺失的正整数
  * 给你一个 严格升序排列 的正整数数组 arr 和一个整数 k 。
  * 请你找到这个数组里第 k 个缺失的正整数。
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/26 10:24 上午
  */
 

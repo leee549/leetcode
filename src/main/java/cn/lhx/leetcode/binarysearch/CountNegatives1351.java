@@ -1,7 +1,7 @@
 package cn.lhx.leetcode.binarysearch;
 
 /**
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/27 11:54 下午
  */
 

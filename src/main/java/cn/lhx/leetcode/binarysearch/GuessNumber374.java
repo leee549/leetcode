@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 猜数字
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/21 11:02 上午
  */
 

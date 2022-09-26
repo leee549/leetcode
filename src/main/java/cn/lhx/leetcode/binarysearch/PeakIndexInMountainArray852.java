@@ -2,7 +2,7 @@ package cn.lhx.leetcode.binarysearch;
 
 /**
  * 求山峰数下标
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/22 9:01 下午
  */
 

@@ -2,7 +2,7 @@ package cn.lhx.leetcode.binarysearch;
 
 /**
  * 求算数平方根
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/24 9:20 上午
  */
 

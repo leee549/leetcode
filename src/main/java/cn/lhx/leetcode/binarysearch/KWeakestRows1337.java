@@ -2,7 +2,7 @@ package cn.lhx.leetcode.binarysearch;
 
 /**
  * 1337. 矩阵中战斗力最弱的 K 行
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/31 10:18 上午
  */
 

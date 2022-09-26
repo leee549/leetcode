@@ -2,7 +2,7 @@ package cn.lhx.leetcode.binarysearch;
 
 /**
  * 二分法
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/21 9:54 上午
  */
 

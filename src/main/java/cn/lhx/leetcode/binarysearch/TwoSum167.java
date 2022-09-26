@@ -8,7 +8,7 @@ import java.util.Arrays;
  * <p>
  * 以长度为 2 的整数数组 [index1, index2] 的形式返回这两个整数的下标 index1 和 index2。
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/30 9:52 上午
  */
 

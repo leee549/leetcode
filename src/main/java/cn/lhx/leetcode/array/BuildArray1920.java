@@ -11,7 +11,7 @@ import java.util.Arrays;
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode.cn/problems/build-array-from-permutation
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/20 10:06 上午
  */
 

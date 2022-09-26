@@ -3,7 +3,7 @@ package cn.lhx.leetcode.binarysearch;
 /**
  * 寻找比目标字母大的最小字母
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/24 9:44 下午
  */
 

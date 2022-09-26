@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * 如果数组 nums 是一个 特殊数组 ，请返回它的特征值 x 。否则，返回 -1 。可以证明的是，如果 nums 是特殊数组，那么其特征值 x 是 唯一的 。
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/27 10:25 下午
  */
 

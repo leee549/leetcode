@@ -13,7 +13,7 @@ import java.util.Arrays;
  * 0 <= i, j < arr.length
  * arr[i] == 2 * arr[j]
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/30 10:17 上午
  */
 

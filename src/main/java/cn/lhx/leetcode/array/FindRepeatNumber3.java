@@ -5,7 +5,7 @@ package cn.lhx.leetcode.array;
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/20 10:06 上午
  */
 

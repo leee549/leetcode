@@ -16,7 +16,7 @@ import java.util.Arrays;
  * - ans = [nums[0],nums[1],nums[2],nums[0],nums[1],nums[2]]
  * - ans = [1,2,1,1,2,1]
  *
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/20 10:06 上午
  */
 

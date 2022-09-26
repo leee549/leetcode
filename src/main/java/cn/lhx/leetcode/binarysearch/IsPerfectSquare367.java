@@ -2,7 +2,7 @@ package cn.lhx.leetcode.binarysearch;
 
 /**
  * 判断是否完全平方数
- * @author: lihaox
+ * @author: saltlee
  * @date: 2022/5/23 9:43 上午
  */
 
